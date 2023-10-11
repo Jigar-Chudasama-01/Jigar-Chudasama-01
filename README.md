@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning different tech stacks
 - 🌱 I’m currently learning ...Java,Data Structures and Algorithms, JavaScript,React
 - 💞️ I’m looking to collaborate on ...java projects
-- 📫 How to reach me ...TwT: @Jigarcodes2509
+- 📫 How to reach me ...TwT: @Jigars_ex
 
 <!---
 Jigar-Chudasama-01/Jigar-Chudasama-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
