@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jigar-Chudasama-01
-- 👀 I’m interested in ...learning different tech stacks
-- 🌱 I’m currently learning ...Java,Data Structures and Algorithms, JavaScript,React
-- 💞️ I’m looking to collaborate on ...java projects
-- 📫 How to reach me ...TwT: @Jigars_ex
+- 👀 I’m interested in ...machine learning,AI,algorithms
+- 🌱 I’m currently learning ...ds algos
+- 💞️ I’m looking to collaborate on ...machine learning projects
+- 📫 How to reach me ...TwT: @godofDP
 
 <!---
 Jigar-Chudasama-01/Jigar-Chudasama-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
